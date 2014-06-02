@@ -13,7 +13,7 @@ packages:
 - "faketime"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/bumbacoin/bumbacoin-source.git"
+- "url": "https://github.com/ChucksBucks/bumbacoin-source.git"
   "dir": "bumbacoin"
 files:
 - "qt-win32-4.8.5-gitian-r5.zip"
